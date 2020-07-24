@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\Application",
+    "\\Application\\Activities",
+    "\\client-app",
+    "\\client-app\\src",
+    "\\Domain",
+    "\\Persistence"
+  ],
+  "SelectedNode": "\\Project.sln",
+  "PreviewInSolutionExplorer": false
+}
