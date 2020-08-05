@@ -19,7 +19,7 @@ const ActivityForm: React.FC<RouteComponentProps<DetailParams>> = ({match, histo
     loadActivity,
   clearActivity} = activityStore;
 
-  const initializeForm = () => {
+  /*const initializeForm = () => {
     if (initialFormState) {
       return initialFormState;
     } else {
@@ -33,7 +33,7 @@ const ActivityForm: React.FC<RouteComponentProps<DetailParams>> = ({match, histo
         venue: ''
       };
     }
-  };
+  };*/
 
   const [activity, setActivity] = useState<IActivity>({id: '',
   title: '',
